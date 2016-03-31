@@ -13,9 +13,9 @@ The server has only two routes
 
 
 ## Installation
-Only tested wit Ubuntu at Google cloud platform. It might of course be possible on other systems.
+Keep in mind this has only been tested running Ubuntu on the Google Cloud platform. It might of course be possible on other systems, local or otherwise.
 
-Create a Ubuntu image. The micro instance is too slow even for only one user at the time.
+If you're on Google Cloud; create a Ubuntu image and be aware that the micro instance is too slow to continously process uploads for event one user at the time. The faster/larger instance the better.
 
 Update and install dependencies
 
