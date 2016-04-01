@@ -13,9 +13,9 @@ The server has only two routes
 
 
 ## Installation
-Keep in mind this has only been tested running Ubuntu on the Google Cloud platform. It might of course be possible on other systems, local or otherwise.
+Keep in mind this has only been tested running Ubuntu 15.10 on the Google Cloud platform. It might of course be possible on other systems, local or otherwise.
 
-If you're on Google Cloud; create a Ubuntu image and be aware that the micro instance is too slow to continously process uploads for event one user at the time. The faster/larger instance the better.
+If you're on Google Cloud; create a Ubuntu 15.10 image and be aware that the micro instance is too slow to continously process uploads for event one user at the time. The faster/larger instance the better.
 
 Update and install dependencies
 
