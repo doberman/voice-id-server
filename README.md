@@ -48,3 +48,7 @@ Install the project
 Start the server
 
     node_modules/forever/bin/forever start app.js
+
+## License
+
+See [LICENSE](https://github.com/doberman/voice-id-server/blob/master/LICENSE).
